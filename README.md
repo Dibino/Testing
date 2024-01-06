@@ -1,4 +1,4 @@
 # Testing
 For practice
 
-- python version 'v12
+- python version v12
